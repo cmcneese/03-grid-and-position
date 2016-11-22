@@ -6,6 +6,14 @@
   width: 980px;
   margin: 0 auto;
   padding-right: 20px;
+  background-color: #dbbc35;
+
+  color: #fff;
+
+}
+
+.wrapper__head {
+  max-width: 50%;
 }
 
 body {
@@ -30,8 +38,11 @@ h1 {
 nav {
   float: right;
   color: #fff;
-  text-decoration: none;
+}
 
+.nav__link {
+  color: inherit;
+  text-decoration: none;
 }
 
 
